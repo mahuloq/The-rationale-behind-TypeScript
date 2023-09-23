@@ -1,1 +1,0 @@
-# The-rationale-behind-TypeScript
